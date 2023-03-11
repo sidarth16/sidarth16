@@ -1,7 +1,7 @@
 # **S.Sidarth** <br/>
 ##  Smart Contract Research Engineer
 <p> 
-    <a href="https://www.linkedin.com/in/sidarth16" target="_blank"><img alt="LinkedIn"
+    <a href="https://www.linkedin.com/in/sidarths" target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://medium.com/@sidarths" target="_blank"><img alt="Medium"
         src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
