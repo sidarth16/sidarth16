@@ -1,9 +1,8 @@
-# **Sidarth S** <br/>
-##  Smart Contract Research Engineer
+# Sidarth S
+## Smart Contract Security Researcher
 <p> 
     <a href="https://linktr.ee/sidarthx0" target="_blank"><img alt="Linktree"
-       src="https://img.shields.io/badge/linktree-%2311C16F.svg?&style=for-the-badge&logo=linktree&logoColor=white"/>
-    </a>
+       src="https://img.shields.io/badge/linktree-%2311C16F.svg?&style=for-the-badge&logo=linktree&logoColor=white"/> </a>
     <a href="https://www.linkedin.com/in/sidarths" target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://medium.com/@sidarths" target="_blank"><img alt="Medium"
@@ -13,12 +12,13 @@
 </p>
 
 ### Learning :
-- Cairo Security, Cryptography
+- Cairo Security, Cryptography, Rust-expert, Solana Security
+- Developing dev-tools
   
 ### Interests : 
 - Web3 Security Tooling, CTFs, Gas Golfing
-- DeFi, NFTs
-- AI, ML, Deep Learning - in BLockchain
+- DeFi, NFTs, etc..
+- extending use cases of AI, ML, Deep Learning - in Blockchain
 
 ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidarth16&count_private=true&show_icons=true&theme=tokyonight)
 
