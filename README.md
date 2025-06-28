@@ -1,6 +1,9 @@
-# **S.Sidarth** <br/>
+# **Sidarth S** <br/>
 ##  Smart Contract Research Engineer
 <p> 
+    <a href="https://linktr.ee/sidarthx0" target="_blank"><img alt="Linktree"
+       src="https://img.shields.io/badge/linktree-%2311C16F.svg?&style=for-the-badge&logo=linktree&logoColor=white"/>
+    </a>
     <a href="https://www.linkedin.com/in/sidarths" target="_blank"><img alt="LinkedIn"
         src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://medium.com/@sidarths" target="_blank"><img alt="Medium"
@@ -9,10 +12,13 @@
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-### Interests
-- Web3 Security, CTFs, Gas Golfing
+### Learning :
+- Cairo Security, Cryptography
+  
+### Interests : 
+- Web3 Security Tooling, CTFs, Gas Golfing
 - DeFi, NFTs
-- AI, ML, Deep Learning
+- AI, ML, Deep Learning - in BLockchain
 
 ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidarth16&count_private=true&show_icons=true&theme=tokyonight)
 
