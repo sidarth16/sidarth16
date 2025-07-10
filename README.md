@@ -11,18 +11,21 @@
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-### Learning :
-- Cairo Security, Cryptography, Rust-expert, Solana Security
-- Developing dev-tools
+### 📌 About Me : 
+- I build Web3 Security Tools and Real-Time Threat Monitoring Systems — specializing in static & dynamic analysis of smart contracts.
+- Experienced in smart contract development & security auditing; multiple-time bounty winner at global hackathons and CTFs.
+- Passionate about combining AI/ML with blockchain to push the boundaries of decentralized security and on-chain intelligence.
+- Worked on EVM-based security infrastructure to detect rug pulls, backdoors, and other malicious smart contract behaviors.
   
-### Interests : 
-- Web3 Security Tooling, CTFs, Gas Golfing
-- DeFi, NFTs, etc..
-- extending use cases of AI, ML, Deep Learning - in Blockchain
+### 📚 Currently Learning
+- Cairo Security, Solana Security, Rust (Advanced), and Cryptography
+- Symbolic Execution and Control Flow Graph (CFG)-based Threat Analysis
+  
+🧩 [Open Source Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)   
 
-![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidarth16&count_private=true&show_icons=true&theme=tokyonight)
+<!-- ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidarth16&count_private=true&show_icons=true&theme=tokyonight) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidarth16&layout=compact&langs_count=10&theme=tokyonight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidarth16&layout=compact&langs_count=10&theme=tokyonight) -->
 
 <!-- <br/>
 -  I’m currently learning ...
