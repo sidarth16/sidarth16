@@ -20,8 +20,9 @@
 ### 📚 Currently Learning
 - Cairo Security, Solana Security, Rust (Advanced), and Cryptography
 - Symbolic Execution and Control Flow Graph (CFG)-based Threat Analysis
-  
-🧩 [Open Source Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)   
+
+### 🧩 Open Source Contributions
+- [My Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)   
 
 <!-- ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidarth16&count_private=true&show_icons=true&theme=tokyonight) -->
 
