@@ -18,8 +18,8 @@
 - Worked on EVM-based security infrastructure to detect rug pulls, backdoors, and other malicious smart contract behaviors.
   
 ### 📚 Currently Learning
-- Cairo Security, Solana Security, Rust (Advanced), and Cryptography
-- Symbolic Execution and Control Flow Graph (CFG)-based Threat Analysis
+- Cairo & Starknet Security, Solana Security, Rust (Advanced), and Cryptography
+- Symbolic Execution and Control Flow Graph (CFG) based Threat Analysis
 
 ### 🧩 Open Source Contributions
 - [My Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)   
