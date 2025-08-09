@@ -11,6 +11,13 @@
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidarth16/sidarth16/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidarth16/sidarth16/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidarth16/sidarth16/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 ### 📌 About Me : 
 - I build Web3 Security Tools and Real-Time Threat Monitoring Systems — specializing in static & dynamic analysis of smart contracts.
 - Experienced in smart contract development & security auditing; multiple-time bounty winner at global hackathons and CTFs.
