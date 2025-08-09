@@ -18,25 +18,25 @@
 </picture>
 
 
-### 📌 About Me : 
+## 📌 About Me : 
 - I build Web3 Security Tools and Real-Time Threat Monitoring Systems — specializing in static & dynamic analysis of smart contracts.
 - Experienced in smart contract development & security auditing; multiple-time bounty winner at global hackathons and CTFs.
 - Passionate about combining AI/ML with blockchain to push the boundaries of decentralized security and on-chain intelligence.
 - Worked on EVM-based security infrastructure to detect rug pulls, backdoors, and other malicious smart contract behaviors.
   
-### 📚 Currently Learning
+## 📚 Currently Learning
 - Cairo & Starknet Security, Solana Security, Rust (Advanced), and Cryptography
 - Symbolic Execution and Control Flow Graph (CFG) based Threat Analysis
 
-### 🧩 Open Source Contributions
+## 🧩 Open Source Contributions
 - [My Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)
 
-<!-- 
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sidarth16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sidarth16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidarth16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sidarth16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidarth16&count_private=true&show_icons=true&theme=tokyonight) -->
