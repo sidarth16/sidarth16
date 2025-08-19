@@ -31,6 +31,9 @@
 ## 🧩 Open Source Contributions
 - [My Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)
 
+## 📂 Publications 
+- [My Publications](https://github.com/sidarth16/Publications)
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sidarth16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
