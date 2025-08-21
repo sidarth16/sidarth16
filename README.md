@@ -31,7 +31,7 @@
 ## 🧩 Open Source Contributions
 - [My Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)
 
-## 📂 Publications 
+## 🗂️ Publications 
 - [My Publications](https://github.com/sidarth16/Publications)
 
 
