@@ -18,20 +18,20 @@
 </picture>
 
 
-## 📌 About Me : 
+## About Me : 
 - I build Web3 Security Tools and Real-Time Threat Monitoring Systems — specializing in static & dynamic analysis of smart contracts.
 - Experienced in smart contract development & security auditing; multiple-time bounty winner at global hackathons and CTFs.
 - Passionate about combining AI/ML with blockchain to push the boundaries of decentralized security and on-chain intelligence.
 - Worked on EVM-based security infrastructure to detect rug pulls, backdoors, and other malicious smart contract behaviors.
   
-## 📚 Currently Learning
+## Currently Building on : 
 - Cairo & Starknet Security, Solana Security, Rust (Advanced), and Cryptography
 - Symbolic Execution and Control Flow Graph (CFG) based Threat Analysis
 
-## 🧩 Open Source Contributions
+##  Open Source Contributions
 - [My Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)
 
-## 🗂️ Publications 
+## Publications 
 - [My Publications](https://github.com/sidarth16/Publications)
 
 
