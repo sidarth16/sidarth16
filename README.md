@@ -1,15 +1,25 @@
 # Sidarth S
-## Smart Contract Security Researcher
-<p> 
-    <a href="https://linktr.ee/sidarthx0" target="_blank"><img alt="Linktree"
-       src="https://img.shields.io/badge/linktree-%2311C16F.svg?&style=for-the-badge&logo=linktree&logoColor=white"/> </a>
-    <a href="https://www.linkedin.com/in/sidarths" target="_blank"><img alt="LinkedIn"
-        src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://medium.com/@sidarths" target="_blank"><img alt="Medium"
-        src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a>
-    <a href="https://twitter.com/sidarthx0" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+## Smart Contract Security Engineer | Protocol Developer
+
+<p>
+  <a href="https://sidarthx0.vercel.app/" style="text-decoration:none;"  target="_blank">
+    <img src="./assets/portfolio.svg" alt="Portfolio" height="28">
+  </a>&nbsp;
+
+  <a href="https://www.linkedin.com/in/sidarths" style="margin-left:8px; text-decoration:none;" target="_blank">
+    <img src="./assets/linkedin.svg" alt="LinkedIn" height="28">
+  </a>&nbsp;
+
+  <a href="https://medium.com/@sidarths" style="margin-left:8px; text-decoration:none;" target="_blank">
+    <img src="./assets/medium.svg" alt="Medium" height="28">
+  </a>&nbsp;
+
+  <a href="https://twitter.com/sidarthx0" style="margin-left:8px; text-decoration:none;" target="_blank">
+    <img src="./assets/x.svg" alt="X" height="28">
+  </a>
 </p>
+
+> **6+ years** building production-grade security tooling, protocol infrastructure, and developer tools for decentralized systems. Focused on protocol engineering, smart contract security, exploit detection, blockchain threat monitoring, and AI-assisted security across EVM, Starknet, and Solana ecosystems.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidarth16/sidarth16/output/github-contribution-grid-snake-dark.svg">
@@ -17,25 +27,44 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sidarth16/sidarth16/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br/>
 
-## About Me : 
-- I build Web3 Security Tools and Real-Time Threat Monitoring Systems — specializing in static & dynamic analysis of smart contracts.
-- Experienced in smart contract development & security auditing; multiple-time bounty winner at global hackathons and CTFs.
-- Passionate about combining AI/ML with blockchain to push the boundaries of decentralized security and on-chain intelligence.
-- Worked on EVM-based security infrastructure to detect rug pulls, backdoors, and other malicious smart contract behaviors.
-  
-## Currently Building on : 
-- Cairo & Starknet Security, Solana Security, Rust (Advanced), and Cryptography
-- Symbolic Execution and Control Flow Graph (CFG) based Threat Analysis
+## Highlights
 
-##  Open Source Contributions
-- [My Contributions Repo](https://github.com/sidarth16/Open-Source-Contributions)
+- Built production-grade real-time threat detection systems protecting live EVM networks.
+- Designed static and dynamic security detectors for production blockchain monitoring.
+- Detected OpenZeppelin library tampering involved in a **$1M+** scam on the Base network.
+- Winner, **Certora's Capture the Spec** • DSS 2024, Bangkok
+- Ranked **65th Worldwide** in **Paradigm CTF 2023**.
+- Multiple-time **ETHGlobal bounty winner** across ETHParis, ETHTokyo, ETHIndia, and ETHBangkok.
+- Creator of **SolderX**, **solidity-mutate**, and **cairo-mutate**.
+- Open-source Contributor to **Slither**, **Halmos**, **Cairo Book**, and **Compose**.
 
-## Publications 
-- [My Publications](https://github.com/sidarth16/Publications)
+## Current Focus
+
+- Smart Contract Security & Protocol Engineering
+- Real-World Assets (RWA) & Tokenization Infrastructure
+- Stablecoins, CBDCs & Digital Asset Platforms
+- DeFi Protocol Design (AMMs, Lending, Vaults & Hooks)
+- Cairo & Starknet Security
+- Solana Security (Rust / Anchor)
+- Formal Verification, Symbolic Execution & Fuzzing
+- AI Security & Autonomous Agent Infrastructure
+
+## Open Source
+
+I actively contribute to open-source security tooling and blockchain infrastructure, with merged contributions to **Slither**, **Halmos**, **Cairo Book**, and **Compose**.
+
+→ **Repository:** https://github.com/sidarth16/Open-Source-Contributions
+
+## Publications
+
+I write about smart contract security, ERC standards, protocol architecture, and decentralized systems.
+
+→ **Read on Medium:** https://medium.com/@sidarths
 
 
-## 📊 GitHub Stats:
+## GitHub Activity
 ![](https://github-readme-stats.vercel.app/api?username=sidarth16&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sidarth16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sidarth16&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -46,12 +75,4 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidarth16&layout=compact&langs_count=10&theme=tokyonight) -->
 
-<!-- <br/>
--  I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
 
-<!---
-sidarth16/sidarth16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
