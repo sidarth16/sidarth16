@@ -19,7 +19,7 @@
   </a>
 </p>
 
-> **6+ years** building production-grade security tooling, protocol infrastructure, and developer tools for decentralized systems. Focused on protocol engineering, smart contract security, exploit detection, blockchain threat monitoring, and AI-assisted security across EVM, Starknet, and Solana ecosystems.
+> **6+ years** building production-grade security tooling, protocol infrastructure, and developer tools for decentralized systems. Focused on protocol engineering, smart contract security, exploit detection, blockchain threat monitoring, and AI-driven security across EVM, Starknet, and Solana ecosystems.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidarth16/sidarth16/output/github-contribution-grid-snake-dark.svg">
@@ -53,13 +53,13 @@
 
 ## Open Source
 
-I actively contribute to open-source security tooling and blockchain infrastructure, with merged contributions to **Slither**, **Halmos**, **Cairo Book**, and **Compose**.
+Active contribution to open-source security tooling and blockchain infrastructure, with merged contributions to **Slither**, **Halmos**, **Cairo Book**, and **Compose**.
 
-→ **Repository:** https://github.com/sidarth16/Open-Source-Contributions
+→ **View Contributions:** https://github.com/sidarth16/Open-Source-Contributions
 
 ## Publications
 
-I write about smart contract security, ERC standards, protocol architecture, and decentralized systems.
+Technical writing on smart contract security, protocol architecture, ERC standards, tokenization, and decentralized systems.
 
 → **Read on Medium:** https://medium.com/@sidarths
 
